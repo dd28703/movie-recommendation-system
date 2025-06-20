@@ -17,6 +17,10 @@ Files in This Repository:
   movie_recommender_final.ipynb - Original Google Colab notebook          
   Internship_Report.pdf        - Final internship report in PDF format    
 
+Dataset:
+
+- The project uses the TMDB 5000 Movie Dataset,
+  If you'd like to explore the original data - TMDB Kaggle Dataset
 
  Prerequisites:
  
