@@ -25,7 +25,9 @@ Dataset:
  Prerequisites:
  
  - Python 3 installed
- -  "streamlit" and "scikit-learn" libraries installed
+ - "streamlit" and "scikit-learn" libraries installed
 
 Author:
--Divyadharshini.S
+- Divyadharshini.S
+- B.E. Artificial Intelligence and Data Science
+- Avinashilingam Institute for Home Science and Higher Education for Women
